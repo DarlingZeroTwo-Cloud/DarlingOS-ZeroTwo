@@ -19,6 +19,7 @@
 |------|------|------|
 | 底层 | Ubuntu 26.04 LTS | 稳定长期支持版 |
 | 显示协议 | Wayland | 现代显示服务器 |
+| 登录管理器 | greetd | 轻量级 Wayland 登录器，macOS 风格 |
 | 窗口管理器 | Hyprland | 平铺式 Wayland 合成器 |
 | 桌面外壳 | Quickshell | QML 桌面框架 |
 | 桌面环境 | DMS (DankMaterialShell) | Material Design 风格 |
